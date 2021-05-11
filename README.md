@@ -14,7 +14,9 @@ Crypto markets are notoriously volatile in nature and traders commonly enter tok
 
 ## Solution
 
-CoinDev.io seeks to provide a measure of protection by automatically exiting swap positions while you sleep.  Users are able to develop their own advanced buy and sell signal strategies based on technical analysis chart based overlays in a user friendly gui interface.  Programming skills are not required.
+CoinDev.io seeks to provide a measure of protection by automatically entering or exiting swap positions while you sleep.
+Users are able to develop their own advanced buy and sell signal strategies based on technical analysis chart-based overlays in a user friendly gui interface.  
+Programming skills are not required.
 
 A simple example of a strategy:
 
