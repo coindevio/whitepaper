@@ -4,9 +4,9 @@
 
 [CoinDev.io Analysis Token](https://coindev.io) is first to market with its innovative Technical Analysis-based token.
 
-Investors and traders of market securities (ie: stocks, futures, and bonds) generally use a trading discipline to evaluate, time, and identify trading opportunities by analyzing statistical trends gathered from historical trading activity.  Price movement and volume trends amongst others are metrics that are used to predict future price movement of assets.  Up until now, these techniques have not been applied to the crypto markets.
+Investors and traders of market securities (ie: stocks, futures, and bonds) generally use a trading discipline to evaluate, time, and identify trading opportunities by analyzing statistical trends gathered from historical trading activity.  Price movement and volume trends, amongst others, are metrics that are used to predict future price movement of assets.  Up until now, these techniques have not been applied to the crypto markets.
 
-CoinDev.io Analysis Token is an ambitious project that democratizes these advanced strategies, generally deployed and protected by large hedge funds, market makers, and investment banks, by making them accessible to all crypto traders worldwide.
+CoinDev.io Analysis Token is an ambitious and calculated moonshot that democratizes these advanced strategies, generally deployed and protected by large hedge funds, market makers, and investment banks, by making them accessible to all crypto traders worldwide.
 
 ## Problem
 
