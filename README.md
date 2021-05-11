@@ -1,2 +1,15 @@
-# whitepaper
-CoinDev.io Analysis Token - Whitepaper
+# CoinDev.io Analysis Token - Whitepaper
+
+## Project
+
+## Problem
+
+## Solution
+
+## Security
+
+## Technology
+
+## Rewards
+
+## Team
