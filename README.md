@@ -68,8 +68,18 @@ List of embedded technical indicators:
 
 ## Security
 
-## Technology
+CoinDev.io takes a security first approach, leveraging SOC 2 level security features offered by Google Cloud.
+Our project regularly undergoes independent verification of security, privacy, and compliance controls, achieving certifications, attestations, and audit reports to demonstrate compliance.
 
 ## Rewards
 
+CoinDev.io conducts monthly airdrop to managed wallet addresses of the system to offset gas prices.
+Tiered airdrops of 1,000 to 10,000 ETH/ANAL token are conducted based on success of strategy.
+
 ## Team
+
+Judah Jaffeth, CEO and Founder of CoinDev.io
+
+An Ex-Googler and founder of CoinDev.io has extensive experience in the mathematics of technical analysis and price movements of assets of all classes, including stocks, futures, forex, and crypto.  Contributor to the Bitcoin and Ethereum projects and to the crypto space as a whole.  
+
+Afer working for multiple Fortune 100 Technology companies in the US, and actively trading equity markets with his Series 7 license, decided to apply his own trading strategies to the crypto markets.  CoinDev.io was developed in part due to the lack of simple-to-use Technical Analysis chart-based methodology in the Crypto space.  These same mathematical calculations proved to be wildly successful in terms of forecasting future moves as well as predicting trends.
