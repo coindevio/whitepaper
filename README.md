@@ -2,7 +2,7 @@
 
 ## Project
 
-[CoinDev.io Analysis Token](https://coindev.io) is first to market with its innovative Technical Analysis-based token.
+[CoinDev.io Analysis Token](https://coindev.io) is first to market with its innovative Technical Analysis-based token.  We love crypto volatility.
 
 Investors and traders of market securities (ie: stocks, futures, and bonds) generally use a trading discipline to evaluate, time, and identify trading opportunities by analyzing statistical trends gathered from historical trading activity.  Price movement and volume trends, amongst others, are metrics that are used to predict future price movement of assets.  Up until now, these techniques have not been applied to the crypto markets.
 
